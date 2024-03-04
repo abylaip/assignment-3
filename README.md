@@ -1,6 +1,6 @@
 ## ExpressJS App
 
-Use `npm run dev` or `node index.js` to run the project
+Use `npm run dev` or `node ./src/index.js` to run the project
 
 Use `Insomnia_2024-03-04.json` to see all endpoints and request bodys
 
